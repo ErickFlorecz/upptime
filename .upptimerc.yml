@@ -5,12 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Vegalum
+    url: http://vegalum.com/
+  - name: Becrux
+    url: http://becrux.space/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Web
   introTitle: "**Upptime**"
-  introMessage: **real-time** data from our [GitHub repository](https://github.com/upptime/upptime)
+  introMessage: **real-time**
   navbar:
     - title: Status
       href: /
