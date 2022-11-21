@@ -3,12 +3,10 @@ owner: Erickflorecz # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: Vegalum
     url: http://vegalum.com/
-  - name: Becrux
-    url: http://becrux.space/
+  - name: Eldosmas
+    url: http://eldosmas.becrux.space/
     
 assignees: # Users to assign downtime issues (optional)
   - Erickflorecz
@@ -19,9 +17,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status-Webs
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status Web
+  introTitle: "**Upptime**"
+  introMessage: This is a sample status page which uses **real-time**
   navbar:
     - title: Status
       href: /
