@@ -4,18 +4,20 @@
     "url": "http://vegalum.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vegalum.com.ico",
     "slug": "vegalum",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1563,
     "timeDay": 3226,
     "timeWeek": 1563,
     "timeMonth": 1563,
     "timeYear": 1563,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-23": 0
+    }
   },
   {
     "name": "Eldosmas",
