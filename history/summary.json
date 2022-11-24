@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vegalum.com.ico",
     "slug": "vegalum",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.67%",
     "uptimeDay": "98.95%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 1411,
-    "timeDay": 2317,
-    "timeWeek": 1411,
-    "timeMonth": 1411,
-    "timeYear": 1411,
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 1316,
+    "timeDay": 574,
+    "timeWeek": 1316,
+    "timeMonth": 1316,
+    "timeYear": 1316,
     "dailyMinutesDown": {
       "2022-11-23": 15
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2562,
-    "timeDay": 4879,
-    "timeWeek": 2562,
-    "timeMonth": 2562,
-    "timeYear": 2562,
+    "time": 2111,
+    "timeDay": 309,
+    "timeWeek": 2111,
+    "timeMonth": 2111,
+    "timeYear": 2111,
     "dailyMinutesDown": {}
   }
 ]
